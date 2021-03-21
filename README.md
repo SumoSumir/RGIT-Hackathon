@@ -1,1 +1,2 @@
 # RGIT-Hackathon
+Team RageAgainstTheMachine
